@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+    text-align: center;
+    color: brown;
+    padding: 3px;
+    margin-left: 0%;
+    width:100%;
+    justify-content: space-between;
+}
+.table{
+    margin-left: 30%;
+}
+.footer{
+    background-color: antiquewhite;
+    color: brown;
+    text-align: center;
+    padding:5px;
+    position: sticky;
+    bottom: 0%;
+    width:100%;
+    margin-top:400px;
+    
+}
